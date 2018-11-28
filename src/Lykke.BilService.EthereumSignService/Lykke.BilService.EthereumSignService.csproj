@@ -8,6 +8,12 @@
     </PropertyGroup>
 
     <ItemGroup>
+        <None Update="Dockerfile">
+            <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+        </None>
+    </ItemGroup>
+    
+    <ItemGroup>
         <PackageReference Include="Lykke.Quintessence.SignService" Version="0.0.2-beta" />
     </ItemGroup>
 
