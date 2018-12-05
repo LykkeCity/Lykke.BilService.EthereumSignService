@@ -1,3 +1,6 @@
+SignService:
+  IsMainNet:
+    settings-key: Ethereum-IsMainNet
 MonitoringServiceClient:
   MonitoringServiceUrl:
     settings-key: MonitoringServiceUrl
