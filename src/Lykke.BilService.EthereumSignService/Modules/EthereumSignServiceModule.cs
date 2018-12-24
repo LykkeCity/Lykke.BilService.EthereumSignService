@@ -2,7 +2,6 @@ using Autofac;
 using JetBrains.Annotations;
 using Lykke.BilService.EthereumSignService.Settings;
 using Lykke.Quintessence.Core.DependencyInjection;
-using Lykke.Quintessence.Core.Utils;
 using Lykke.Quintessence.Settings;
 using Lykke.SettingsReader;
 
