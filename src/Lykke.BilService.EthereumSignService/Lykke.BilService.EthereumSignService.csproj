@@ -14,7 +14,7 @@
     </ItemGroup>
     
     <ItemGroup>
-        <PackageReference Include="Lykke.Quintessence.SignService" Version="0.0.23-beta" />
+        <PackageReference Include="Lykke.Quintessence.SignService" Version="0.0.24-beta" />
     </ItemGroup>
 
 </Project>
