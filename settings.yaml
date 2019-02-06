@@ -1,0 +1,6 @@
+SignService:
+  IsMainNet:
+    settings-key: Bcn-ETH-IsMainNet
+MonitoringServiceClient:
+  MonitoringServiceUrl:
+    settings-key: MonitoringServiceUrl
